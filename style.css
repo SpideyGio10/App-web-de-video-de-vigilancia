@@ -1,0 +1,17 @@
+input{
+    width: 650;
+}
+.heading{
+    width: 100%;
+    font-size: 25px;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+canvas{
+    border: 1px solid black;
+    margin-top: 0%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px orange;
+}
